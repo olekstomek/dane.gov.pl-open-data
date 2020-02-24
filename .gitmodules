@@ -1,0 +1,6 @@
+[submodule "mcod-frontend-dane.gov.pl"]
+	path = mcod-frontend-dane.gov.pl
+	url = https://github.com/olekstomek/mcod-frontend-dane.gov.pl
+[submodule "mcod-backend-dane.gov.pl"]
+	path = mcod-backend-dane.gov.pl
+	url = https://github.com/olekstomek/mcod-backend-dane.gov.pl
