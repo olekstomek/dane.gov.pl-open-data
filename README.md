@@ -62,7 +62,7 @@ W jednym miejscu znajdziesz dane ponad 100 instytucji publicznych. Portal jest �
 > 
 > Jeśli stworzyłeś aplikację wykorzysującą dane publiczne dostępne na portalu - pochwal się nią. Zamieścimy ją na naszej stronie. Napisz do nas jeśli nie znalazłeś danych, których potrzebujesz. Opisz szczegółowo rodzaj poszukiwanych danych. Przeanalizujemy możliwość udostępnienia ich przez dostawców.
 >
-> Podstawa prawna
+> ## Podstawa prawna
 > Serwis Dane.gov.pl realizuje cel Centralnego Repozytorium Informacji Publicznej, wskazanego w Ustawie o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.) jako jeden z trybów dostępu i ponownego wykorzystywania informacji publicznej.
 > 
 > Na podstawie ustawy wydane zostały następujące rozporządzenia:
