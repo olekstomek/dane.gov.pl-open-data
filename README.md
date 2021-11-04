@@ -4,9 +4,9 @@ https://dane.gov.pl/ -  mirror of source code from https://gitlab.dane.gov.pl/ot
 Currently GitLab redirect to page with zip files:
 !["Otwarte Dane - dostęp,standard, edukacja" oraz "Otwarte dane plus" POPC](source-code-zip-files.JPG)
 
-backend_2.16.0.zip has the same files as backend_latest.zip
+backend_2.17.0.zip has the same files as backend_latest.zip
 
-frontend_2.16.0.zip has the same file as frontend_latest.zip
+frontend_2.17.0.zip has the same file as frontend_latest.zip
 
 This repository includes data from GitLab and from zip files - look at branches.
 
