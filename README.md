@@ -8,6 +8,7 @@ backend_2.17.0.zip has the same files as backend_latest.zip
 
 frontend_2.17.0.zip has the same file as frontend_latest.zip
 
+The same applies to incrementing subsequent versions.
 This repository includes data from GitLab and from zip files - look at branches.
 
 ## This is source code of [dane.gov.pl](https://dane.gov.pl/) (page that provides open data in Poland)
