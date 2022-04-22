@@ -1,3 +1,6 @@
+My Apps Script trigger - check dane.gov.pl/source-code and send email if new version https://gist.github.com/olekstomek/a8178bf123d6830c05dd9e256731aa93
+
+
 # dane.gov.pl-open-data
 https://dane.gov.pl/ -  mirror of source code from https://gitlab.dane.gov.pl/otwarte-dane
 
