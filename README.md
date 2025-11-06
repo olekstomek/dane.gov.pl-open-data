@@ -1,5 +1,17 @@
-My Apps Script trigger - check dane.gov.pl/source-code and send email if new version https://gist.github.com/olekstomek/a8178bf123d6830c05dd9e256731aa93
+⚠️ Version Notice
 
+🚀 The frontend started being implemented in version 3.x.x, 
+while the backend is still maintained under 2.x.x.
+
+📦 The default branch of this repository is set to new_version_2.x,
+so you’ll be viewing the latest backend version by default.
+
+👉 To check out the latest frontend (3.x.x),
+switch to the `new_version_3.x` branch —
+or simply visit the dedicated frontend repository **[frontend repository](https://github.com/olekstomek/mcod-frontend-dane.gov.pl)**,
+where the default branch always points to the most recent version.\
+
+ℹ️ **[My Apps Script trigger](https://gist.github.com/olekstomek/a8178bf123d6830c05dd9e256731aa93)** - check dane.gov.pl/source-code and send email if new version 
 
 # dane.gov.pl-open-data
 https://dane.gov.pl/ -  mirror of source code from https://gitlab.dane.gov.pl/otwarte-dane
