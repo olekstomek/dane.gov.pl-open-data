@@ -3,7 +3,7 @@
 🚀 The frontend started being implemented in version 3.x.x, 
 while the backend is still maintained under 2.x.x.
 
-📦 The default branch of this repository is set to new_version_2.x,
+📦 The default branch of this repository is set to `new_version_2.x`,
 so you’ll be viewing the latest backend version by default.
 
 👉 To check out the latest frontend (3.x.x),
